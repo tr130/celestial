@@ -40,7 +40,7 @@ Complete the tasks below
 
 Each table should have at least three rows
 
-The galaxy and star tables should each have at least six rows
+#The #galaxy and #star tables should each have at least six rows
 
 The planet table should have at least 12 rows
 
